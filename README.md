@@ -1,2 +1,3 @@
-# smart-weather-app-wgdq
-Automated issue comment bot repository
+# Smart Weather App Wgdq
+
+Automated issue comment bot repository.
